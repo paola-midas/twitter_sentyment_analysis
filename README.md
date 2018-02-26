@@ -1,4 +1,4 @@
-# Twiiter sentyment analysis dataviz
+# Twitter sentyment analysis dataviz
 
 Visualization that allows you to understand twitter trendings under the perspective of sentyment analysis(positive,neutral and negative classificiation) in a specified lapse of time
 ## Tech
